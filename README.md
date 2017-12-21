@@ -2,7 +2,8 @@
 
 Converts mistyped strings in wrong keymap ("ghbdtn" -> "привет").
 
-Only english/russian mistypes for now. This gem in experimental stage.
+Only english/russian mistypes for now. 
+**This gem in experimental stage.**
 
 See also [languager](https://github.com/aishek/languager) gem.
 

@@ -5,7 +5,11 @@ Converts mistyped strings in wrong keymap ("ghbdtn" -> "привет").
 Only english/russian mistypes for now. 
 **This gem in experimental stage.**
 
-See also [languager](https://github.com/aishek/languager) gem.
+See also 
+
+* [languager](https://github.com/aishek/languager) gem which translate string to given language by keyboard layout
+* [convert-layout](https://github.com/ai/convert-layout) - 
+JS library to convert text from one keyboard layout to other
 
 ## Installation
 
